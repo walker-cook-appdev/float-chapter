@@ -3,5 +3,5 @@
 # Your output should be a number; for example,
 # 
 # 5.3
-
+p (2.8**2 + 4.5**2)**(1.0/2.0)
 
